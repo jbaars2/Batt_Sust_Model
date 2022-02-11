@@ -1,4 +1,3 @@
-# Python version of the BatPaC cost model.
 from pathlib import Path
 import pandas as pd
 import re
